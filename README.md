@@ -1,12 +1,12 @@
 # Assignment-3
 
+A Data-Driven Approach to Understanding Weather Conditions in Australia
+
 ## Kaijiang Chen
 
 ### Working with Data and Code (52685)
 
 ### University of Technology Sydney
-
-A Data-Driven Approach to Understanding Weather Conditions in Australia
 
 ## Instructions
 
