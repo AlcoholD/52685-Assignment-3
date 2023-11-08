@@ -3,9 +3,7 @@
 A Data-Driven Approach to Understanding Weather Conditions in Australia
 
 ## Kaijiang Chen
-
 ### Working with Data and Code (52685)
-
 ### University of Technology Sydney
 
 ## Instructions
